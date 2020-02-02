@@ -1,0 +1,49 @@
+{
+  "personInfo": {
+    "name": {
+      "jp": "",
+      "mm": ""
+    },
+    "homeAddress": {
+      "jp": "",
+      "mm": ""
+    },
+    "currentAddress": {
+      "jp": "",
+      "mm": ""
+    },
+    "nrc": {
+      "jp": "",
+      "mm": ""
+    },
+    "dob": {
+      "jp": "",
+      "mm": ""
+    },
+    "blood": {
+      "jp": "",
+      "mm": ""
+    },
+    "gender": {
+      "jp": "",
+      "mm": ""
+    },
+    "email": {
+      "jp": "",
+      "mm": ""
+    },
+    "phoneNo": {
+      "jp": "",
+      "mm": ""
+    },
+    "religion": {
+      "jp": "",
+      "mm": ""
+    },
+    "nation": {
+      "jp": "",
+      "mm": ""
+    },
+    "profileImage": ""
+  }
+}

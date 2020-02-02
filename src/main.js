@@ -1,10 +1,11 @@
 import Vue from 'vue'
-import './plugins/axios'
-import './plugins/fontawesome'
 import App from './App.vue'
 import store from './store'
-import vuetify from './plugins/vuetify';
-import router from './router'
+import vuetify from './plugins/vuetify'
+import './plugins/fontawesome'
+import './plugins/moment'
+import router from './routes'
+
 
 Vue.config.productionTip = false
 
